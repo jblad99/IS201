@@ -1,5 +1,5 @@
 body{
-    background-color:rgb(255, 255, 255);
+    background-color:rgb(53, 149, 194);
     font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
 
@@ -50,7 +50,7 @@ body{
     left: 5px;
     right: 5px;
     font-size: 8px;
-    color:tomato;
+    color:rgb(0, 0, 0);
     text-align: center;
     position: fixed;
 }
